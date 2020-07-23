@@ -167,8 +167,8 @@ h5{
 	border-width: 0px;
 }
 .card-img-top{
-	height: 20rem;
-	width: 24rem;
+	height: 16rem;
+	width: 19rem;
 }
 
 .card-h3{
@@ -203,7 +203,6 @@ h5{
 #circles{
 	justify-content: left;
 	margin-left: 20px;
-	margin-top: 100px;
 }
 
 
@@ -227,7 +226,7 @@ h5{
     text-align: center;
     margin-top: 10%;
     margin-bottom: 30px;
-}
+} 
 
 .bottle{
 	margin-top: -100px;
@@ -332,6 +331,7 @@ input{
 }
 
 @media screen and (max-width: 1200px) {
+
 	.top-img , .bottle , .dish-img{
   	display: none;
   }
