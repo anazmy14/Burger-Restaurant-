@@ -133,8 +133,6 @@ h6 {
 .left{
 	background-image: url("images/left.png");
 	height: 400px;
-
-
 }
 
 .top {
@@ -203,6 +201,7 @@ h5{
 #circles{
 	justify-content: left;
 	margin-left: 20px;
+	top : 100%;
 }
 
 
@@ -215,11 +214,6 @@ h5{
   background-color: orange;
   float: left;
 }
-
-
-
-
-
 
 
 .book{
@@ -335,5 +329,18 @@ input{
 	.top-img , .bottle , .dish-img{
   	display: none;
   }
+
+  .box {
+  	width: 60%;
+  }
+  .left{
+  	height: 300px;
+  }
+
+
+
+
+
+
 }
 
