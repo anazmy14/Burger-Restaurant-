@@ -137,15 +137,17 @@ h6 {
 	width: 90%;
     text-align: center;
     height: 160px;
+    font-family: 'Bebas Neue'
+    font-weight: 300;
 }
 
 .try{
-	font-size: 1.5rem;
+	font-size: 0.8rem;
 }
 
 .feature-title{
 	color: white;
-	font-size: 2rem;
+	font-size: 1.7rem;
 	padding: 3.4%;
 	text-align: left;
 
@@ -161,7 +163,7 @@ h6 {
 
 .top {
 	background-image: url("images/top.png");
-	margin-top: 4%;
+	margin-top: 6%;
 
 }
 
