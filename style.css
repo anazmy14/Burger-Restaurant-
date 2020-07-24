@@ -1,16 +1,12 @@
 
 body{
-	margin: 0px;
-	padding: 0px;
 	color: rgb(61,37,20);
-
-
 }
 
 .top-section{
 	background-image: url("images/background.png");
 	background-size: 100% 100%;
-	margin: -1px -1px ;
+	margin: -10px ;
 	padding: 4%;
 }
 
@@ -100,6 +96,30 @@ h6 {
 	height: 170%;
 	width: 140%;
 }
+
+.price{
+	position: relative;
+	bottom:  110px;
+	right: 140px;
+	z-index: 2;
+	text-align: center;
+}
+
+.price-text{
+	font-family: 'Bebas Neue';
+	position: relative;
+	bottom: 150px;
+	color: white;
+	font-size: 3.5rem;
+	line-height: 0.8;
+	font-weight: bolder;
+}
+
+.only{
+	font-weight: lighter;
+	font-size: 1.7rem;
+}
+
 
 .features{
 	text-align: center;
@@ -305,6 +325,7 @@ input{
   	margin-left: 30px;
   }
 
+
   .left{
   	padding-bottom: 150px;
   }
@@ -315,6 +336,10 @@ input{
 
   .book{
   	position: static;
+  }
+
+  .box{
+  	width: 90%;
   }
 
   .white-logo{
@@ -330,9 +355,7 @@ input{
   	display: none;
   }
 
-  .box {
-  	width: 60%;
-  }
+  
   .left{
   	height: 300px;
   }
