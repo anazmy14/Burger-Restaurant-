@@ -116,6 +116,13 @@ h6 {
 	font-weight: bolder;
 }
 
+.price-img{
+	
+	border-radius: 50%;
+	border: dashed white;
+
+	}
+
 .only{
 	font-weight: lighter;
 	font-size: 1.7rem;
@@ -347,10 +354,10 @@ input{
   	position: static;
   }
 
-  .box{
-  	width: 400px;
+  .left {
   	height: 200px;
-  }
+
+  } 
 
   .bottom{
   	margin-top: 4%;
