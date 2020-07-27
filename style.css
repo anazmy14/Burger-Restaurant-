@@ -4,14 +4,16 @@ body{
 	font-family: 'Bebas Neue';
 	font-weight: 200;
 	font-size: 1rem; 
-
+	padding: 0px ;
+	margin: 0px;
 }
 
 .top-section{
 	background-image: url("images/background.png");
 	background-size: 100% 100%;
-	margin: -10px ;
-	padding: 4% 4% 2%;
+	background-repeat: no-repeat;
+    padding: 4% 4% 2%;
+    background-color: orange;
 }
 
 
